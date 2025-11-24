@@ -16,7 +16,7 @@ const Homepage = () => {
         {/* IMAGE CONTAINER */}
         <div className="h-1/5 lg:h-full lg:w-1/2 relative flex items-center justify-center mr-20 ">
           <Image
-            src="/hero.jpg"
+            src="/profile/headshot_vatthana.png"
             alt=""
             width={500}
             height={500}
